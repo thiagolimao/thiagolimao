@@ -1,4 +1,6 @@
-![](https://user-images.githubusercontent.com/569638/96327239-2a49d380-100e-11eb-848c-c3814780f70f.png)
+
+<!--![](https://user-images.githubusercontent.com/569638/96327239-2a49d380-100e-11eb-848c-c3814780f70f.png)
+-->
 
 [![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/thiagolimao)](https://github.com/thiagolimao)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-limao/)](https://www.linkedin.com/in/thiago-limao/)
