@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+https://github.com/thiagolimao/thiagolimao/blob/main/simbolo_limao.png
+
 <!--
 **thiagolimao/thiagolimao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
