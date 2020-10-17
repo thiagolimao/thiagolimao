@@ -1,4 +1,4 @@
-<img align="right" width="408" height="430" src="http://www.thiagolima.com/img/github_limao.png">
+<img align="right" width="408" height="430" src="http://www.thiagolima.com/img/github_readme.png">
 
 ![logo](http://www.thiagolima.com/img/logo_limao.png)
 <p>
@@ -7,6 +7,7 @@
 <p>
   Minha expertise está na arquitetura de soluções e produção de software, atuando desde a simples execução dos projetos até conceituação completa dos mesmos ou a elaboração de campanhas de marketing digital otimizadas de maneira inteligente e multiplataforma.
 </p>
+<br>
  
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=http://www.github.com/thiagolimao)](http://www.github.com/thiagolimao)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-limao/)](https://www.linkedin.com/in/thiago-limao/)
