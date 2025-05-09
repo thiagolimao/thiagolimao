@@ -1,6 +1,6 @@
-<img align="right" width="408" height="430" src="http://www.thiagolima.com/img/github/github_readme.png">
+<!-- /<img align="right" width="408" height="430" src="http://www.thiagolima.com/img/github/github_readme.png">
 
-![logo](http://www.thiagolima.com/img/github/logo-limao.png)
+![logo](http://www.thiagolima.com/img/github/logo-limao.png) -->
 <p>
   Olá, sou Limão e trabalho desde 2004 na área de desenvolvimento web e meu desejo é estar envolvido em projetos que eu possa me orgulhar, por esse motivo trabalho com uma equipe incrível atendendo demandas de startups, agências e empresas de TI.
 </p>
